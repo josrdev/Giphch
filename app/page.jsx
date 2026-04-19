@@ -1,6 +1,6 @@
 import Search from '../components/searchInput'
 
-export default function HomePage(){
+export function HomePage() {
     return (
         <Search/>
     )
